@@ -23,7 +23,7 @@ def calculate_risk_factor(car_age, mileage, accidents=0):
 
 def format_currency(amount):
     """Format amount as currency."""
-    return f"₹{amount:,.2f}"
+    return f"₺{amount:,.2f}"
 
 def validate_input_data(data):
     """Validate input data for prediction."""
