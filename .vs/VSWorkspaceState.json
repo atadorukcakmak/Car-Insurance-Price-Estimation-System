@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv",
+    "\\.venv\\Scripts",
+    "\\.venv\\share",
+    "\\.venv\\share\\jupyter",
+    "\\.venv\\share\\man",
+    "\\data",
+    "\\src"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\utils.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\model_trainer.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\model_trainer.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\.venv\\Scripts\\activate.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.venv\\Scripts\\activate.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\data_processor.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data_processor.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\utils.py",
+              "RelativeDocumentMoniker": "src\\utils.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\utils.py",
+              "RelativeToolTip": "src\\utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T16:50:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "model_trainer.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\model_trainer.py",
+              "RelativeDocumentMoniker": "src\\model_trainer.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\model_trainer.py",
+              "RelativeToolTip": "src\\model_trainer.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T16:50:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "activate.bat",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\.venv\\Scripts\\activate.bat",
+              "RelativeDocumentMoniker": ".venv\\Scripts\\activate.bat",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\.venv\\Scripts\\activate.bat",
+              "RelativeToolTip": ".venv\\Scripts\\activate.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGRSURBVDhPY6Aq\u002BP//P5Q1iAEjiGjt7KGKU6vLSxiZoGySgK21FVYaDkAu/PXrF1n458\u002BfYAzzJV4Xnjx5kmHixIlgGhuARSpy5OI0cMHixQy8ohIMXqGRDGzC4gxTZsyCykAAsmEEDbx06RKDla09g4aSPMPFY4cYdJUVGCyd3cDiIIDLMBDAauD\u002B/fsZuDk5GdatWcMQGRnJsGHtGgZ\u002BXl6wODbDkA3FaqCjoyPD9\u002B/fGYJDQhiWL1/OEBgcwvD921cGUWk5hpVb9zDsPngULA8CRLlQT0\u002BP4djhgwx3HjxiMLWxZ7hx/yHD1s2bGZg07Bnc3NwYXgupM5y9fI14F4JAXGwsw7uXzxk2rFzG8PnVcwZFZTUGdzVhhj33PzN4aogyPH39HqwOZBhRBoKAubk5Q15eHpiWEhVk2HXrLYOLIi/DjptvGIx0NDEMAwG8BsIUg2iQAYJvrjHs2rmTQYflPYOUiACKPAzgNBBZMQhzcHAwONlYMIR4OjFoqigwsLOzw\u002BWRAdULByhz5AAGBgBbcgKqCuq3vwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-25T16:49:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data_processor.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\data_processor.py",
+              "RelativeDocumentMoniker": "src\\data_processor.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Car-Insurance-Price-Estimation-System-main\\Car-Insurance-Price-Estimation-System-main\\src\\data_processor.py",
+              "RelativeToolTip": "src\\data_processor.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-25T16:48:56.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
